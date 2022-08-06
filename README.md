@@ -205,7 +205,7 @@ chmod 755 *.sh
 ## Bugs & Issues
 Please feel free to report any bugs or issues to us, email to: master@itsecurity.id or [open issues](https://github.com/Xcod3bughunt3r/LAMP/issues) on Github.
 
-## [Follow Me](https://github.com/Xcod3bughunt3r/LAMP/HACKILLYOURNET.md)
+## [Follow Me](https://github.com/Xcod3bughunt3r/LAMP/blob/2a62db5b210e02e0d2548de90965c1003c793ed1/HACKILLYOURNET.md)
 
 ## License
 The MIT License (MIT).
