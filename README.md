@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://itsecurity.id/" target="_blank">
-        <img alt="LAMP" src="https://github.com/Xcod3bughunt3r/LAMP/conf/blob/main/lamp.png">
+        <img alt="LAMP" src="/conf/lamp.png">
     </a>
 </div>
 
@@ -203,9 +203,9 @@ chmod 755 *.sh
 | lamp del   | Remove a virtual host           |
 
 ## Bugs & Issues
-Please feel free to report any bugs or issues to us, email to: ceo@hackillyournet.id or [open issues](https://github.com/Xcod3bughunt3r/LAMP/issues) on Github.
+Please feel free to report any bugs or issues to us, email to: master@itsecurity.id or [open issues](https://github.com/Xcod3bughunt3r/LAMP/issues) on Github.
 
-## [Follow Me](https://github.com/Xcod3bughunt3r/LAMP/blob/main/HACKILLYOURNET.md)
+## [Follow Me](https://github.com/Xcod3bughunt3r/LAMP/HACKILLYOURNET.md)
 
 ## License
 The MIT License (MIT).
